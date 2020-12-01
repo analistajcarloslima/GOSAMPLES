@@ -13,3 +13,5 @@ func main() { //para executar também é necessário uma função main
 }
 
 //para executar o código basta abrir um terminar e digitar go run+ aruivo
+
+//alteração
